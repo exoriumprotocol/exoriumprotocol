@@ -1,4 +1,4 @@
-![Exorium Animation](https://raw.githubusercontent.com/exoriumprotocol/fronted-configs/refs/heads/main/configs/network-logos/sticker.gif)
+<img src="https://raw.githubusercontent.com/exoriumprotocol/fronted-configs/refs/heads/main/configs/network-logos/sticker.gif" width="30%">
 
 - 👋 Hi, I’m @exoriumprotocol
 - 👀 I’m interested in Exorium Dev Network
