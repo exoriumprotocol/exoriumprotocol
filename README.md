@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/exoriumprotocol/fronted-configs/refs/heads/main/configs/network-logos/sticker.gif" width="30%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/exoriumprotocol/fronted-configs/refs/heads/main/configs/network-logos/sticker.gif" width="200">
+</p>
 
 - 👋 Hi, I’m @exoriumprotocol
 - 👀 I’m interested in Exorium Dev Network
